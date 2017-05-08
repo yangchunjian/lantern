@@ -1,4 +1,4 @@
-##[🔴此项目仅做为个人爱好分析，不做其他用途🔴]
+## [🔴此项目仅做为个人爱好分析，不做其他用途🔴]
 
 # lantern [![Travis CI Status](https://travis-ci.org/getlantern/lantern.svg?branch=devel)](https://travis-ci.org/getlantern/lantern)&nbsp;[![Coverage Status](https://coveralls.io/repos/getlantern/lantern/badge.png?branch=devel)](https://coveralls.io/r/getlantern/lantern)
 
