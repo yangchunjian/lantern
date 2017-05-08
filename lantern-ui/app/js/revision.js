@@ -1,0 +1,1 @@
+var LANTERN_BUILD_REVISION = "d7bccd8";
